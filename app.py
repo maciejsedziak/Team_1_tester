@@ -10,3 +10,4 @@ elif wiek>=40:
 	print("Uważaj w Twoim wieku nie przasadzaj ze spożyciem")
 else:
   exit("Jesteś za młoda/y na alkohol. Zapraszamy na disney.com")
+ccc
